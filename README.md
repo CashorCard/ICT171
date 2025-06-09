@@ -2,6 +2,7 @@
 Rishik Miryala (35693179) 
 Global IP address: 3.24.44.143
 DNS entry: mcserver.xyz
+Video explainer: https://murdochuniversity-my.sharepoint.com/personal/35693179_student_murdoch_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2F35693179%5Fstudent%5Fmurdoch%5Fedu%5Fau%2FDocuments%2FScreen%20Recording%202025%2D06%2D09%20at%201%2E45%2E40%E2%80%AFAM%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E88106d34%2Dc81b%2D436c%2Dbdca%2D011d8455b6f2 
 Reference:
 Canonical. (2022, March 31). Linux gaming tutorial: Raspberry Pi Minecraft server on Ubuntu Desktop. Ubuntu. https://ubuntu.com/blog/linux-gaming-tutorial-raspberry-pi-minecraft-server-on-ubuntu-desktop
 
